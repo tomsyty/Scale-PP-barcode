@@ -31,7 +31,7 @@ Gdy wejdziesz teraz do folderu "downloads" znajdującego się w folderze rozszer
 To już wszystko. Etykiety które będą przetwarzane przez to rozszerzenie będą sygnalizowane przez zielony przycisk "Pobierz etykiety" (przy pobieraniu na stronie po zamówieniu przesyłki), "Etykiety" (w oknie Szczegóły przesyłki na stronie Sprzedaż - Obsługa zamówień - Zamówione przesyłki), "Pobierz etykietę" (na liście na stronie Sprzedaż - Obsługa zamówień - Zamówienia)<br/>
 ![download_label_button_highlighted](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/8d0b206b-df5b-4e4e-a904-c17c4b12301f)
 
-Etykiety są przetwarzane na bieżąco w momencie pobierania. Jeśli potrzebujesz pobrać nieprzetworzoną etykietę, tymczasowo wyłącz rozszerzenie i odśwież stronę.
+Etykiety są przetwarzane na bieżąco w momencie pobierania. Obsługiwane są tylko pliki zawierające jedną etykietę, tak więc nie zaznaczaj grupowo etykiet do pobrania w jednym pliku. Jeśli potrzebujesz pobrać nieprzetworzoną etykietę, tymczasowo wyłącz rozszerzenie i odśwież stronę.
 
 Przy pierwszym pobieraniu przeglądarka zapyta jeszcze o pozwolenie na pobieranie wielu plików (jest to spowodowane tym że rozszerzenie od razu po pobraniu etykiety przerabia ją, usuwa pobraną etykietę i zapisuje gotowy plik pod tą samą nazwą). Należy kliknąć "Zezwalaj"<br/>
 ![multiple_downloads_prompt](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/ec8fbc25-531b-49ca-a1da-482472160e67)<br/>
