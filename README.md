@@ -36,6 +36,9 @@ Etykiety są przetwarzane na bieżąco w momencie pobierania. Obsługiwane są t
 Przy pierwszym pobieraniu przeglądarka zapyta jeszcze o pozwolenie na pobieranie wielu plików (jest to spowodowane tym że rozszerzenie od razu po pobraniu etykiety przerabia ją, usuwa pobraną etykietę i zapisuje gotowy plik pod tą samą nazwą). Należy kliknąć "Zezwalaj"<br/>
 ![multiple_downloads_prompt](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/ec8fbc25-531b-49ca-a1da-482472160e67)<br/>
 
+Przykładowy wygląd przetworzonej etykiety<br/>
+![sample_label_result](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/0d68725e-25da-4f77-9c8b-e633966a5bcf)<br/>
+
 Rozszerzenie możesz sprawdzić w serwisie testowym [Allegro Sandbox](https://developer.allegro.pl/tutorials/informacje-podstawowe-b21569boAI1#srodowisko-testowe).
 ***
 Jeżeli napotkasz jakieś błędy w trakcie działania aplikacji, masz jakieś pytania, sugestie, problemy z obsługą, daj znać w sekcji "Discussions".
