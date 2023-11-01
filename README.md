@@ -28,8 +28,13 @@ lub z menu przeglądarki wybierz "Rozszerzenia - Zarządzaj rozszerzeniami".
 ![cmd_create_symlink_result](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/48525d6b-87ca-4295-808d-d2724f154c40)<br/>
 Gdy wejdziesz teraz do folderu "downloads" znajdującego się w folderze rozszerzenia, powinieneś zobaczyć zawartość folderu do którego przeglądarka domyślnie pobiera pliki.
 
-To już wszystko. Etykiety które będą przetwarzane przez to rozszerzenie będą sygnalizowane przez zielony przycisk "Pobierz etykiety" (przy pobieraniu na stronie po zamówieniu przesyłki), "Etykiety" (w oknie Szczegóły przesyłki na stronie Sprzedaż - Obsługa zamówień - Zamówione przesyłki), "Pobierz etykietę" (na liście na stronie Sprzedaż - Obsługa zamówień - Zamówienia)<br/>
-![download_label_button_highlighted](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/8d0b206b-df5b-4e4e-a904-c17c4b12301f)
+To już wszystko. Etykiety które będą przetwarzane przez to rozszerzenie będą sygnalizowane przez zielony przycisk "Pobierz etykiety" (przy pobieraniu na stronie po zamówieniu przesyłki), "Etykiety" (w oknie Szczegóły przesyłki na stronie Sprzedaż - Obsługa zamówień - Zamówione przesyłki), "Drukuj etykietę" (na liście na stronie Sprzedaż - Obsługa zamówień - Zamówienia)<br/>
+![download_label_button_highlighted](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/ce330021-d6ee-4286-b677-7c448fbb01d0)
+![labels_button_highlighted](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/d7b3ecce-239f-4c93-aaae-cf51850416ef)
+![print_label_button_highlighted](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/34cacc6a-8cbc-461c-8237-86904d240db9)
+
+
+
 
 Etykiety są przetwarzane na bieżąco w momencie pobierania. Obsługiwane są tylko pliki zawierające jedną etykietę, tak więc nie zaznaczaj grupowo etykiet do pobrania w jednym pliku. Jeśli potrzebujesz pobrać nieprzetworzoną etykietę, tymczasowo wyłącz rozszerzenie i odśwież stronę.
 
@@ -37,7 +42,7 @@ Przy pierwszym pobieraniu przeglądarka zapyta jeszcze o pozwolenie na pobierani
 ![multiple_downloads_prompt](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/ec8fbc25-531b-49ca-a1da-482472160e67)<br/>
 
 Przykładowy wygląd przetworzonej etykiety<br/>
-![sample_label_result](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/0d68725e-25da-4f77-9c8b-e633966a5bcf)<br/>
+![sample_label_result](https://github.com/tomsyty/Scale-PP-barcode/assets/41838854/59edc945-12eb-40f9-94f0-d63ed0d679e0)<br/>
 
 Rozszerzenie możesz sprawdzić w serwisie testowym [Allegro Sandbox](https://developer.allegro.pl/tutorials/informacje-podstawowe-b21569boAI1#srodowisko-testowe).
 ***
