@@ -1,5 +1,5 @@
 ## Skalowanie kodu kreskowego na etykiecie przesyłki eCommerce Poczty Polskiej
-To rozszerzenie pozwala na zwiększenie rozmiaru kodu kreskowego na etykiecie przesyłek eCommerce (Allegro Mini Przesyłka i Allegro Przesyłka polecona). Domyślnie linie w kodzie są bardzo gęsto rozmieszczone i do tego ułożone w poprzek a nie wzdłuż ścieżki przesuwu papieru w drukarce termicznej, co powoduje jego zlewanie na wydrukach w niektórych modelach drukarek i problemy z odczytem kodu przez skanery na poczcie.
+To rozszerzenie pozwala na zwiększenie rozmiaru kodu kreskowego na etykiecie przesyłek eCommerce (Allegro MiniPrzesyłka i Allegro Przesyłka polecona). Domyślnie linie w kodzie są bardzo gęsto rozmieszczone i do tego ułożone w poprzek a nie wzdłuż ścieżki przesuwu papieru w drukarce termicznej, co powoduje jego zlewanie na wydrukach w niektórych modelach drukarek i problemy z odczytem kodu przez skanery na poczcie.
 
 Osobiście nie mam potrzeby korzystania z tego rozwiązania gdyż na swoich aukcjach nie oferuję tych metod dostawy, jednak zdaję sobie sprawę że niektórym może się to przydać gdyż zgłaszali takie zapotrzebowanie na forum Allegro Gadane. 
 
