@@ -1,3 +1,5 @@
 [2024-02-01] v1.0.1
 - poprawiono wykrywanie przesyłki Allegro MiniPrzesyłka (wcześniejsza nazwa Allegro Mini przesyłka) co skutkowało tym że przy wydruku zaraz po nadaniu nie rozpoznawało jej jako przeznaczonej do przetworzenia (działało jednak w sekcji "Zamówione przesyłki" oraz po wejściu w szczegóły zamówienia)
 - usprawnienia kodu aplikacji
+[2024-03-31] v1.0.2
+- przywrócono działanie po niedawnej zmianie układu strony nadawania przesyłek
