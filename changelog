@@ -5,3 +5,6 @@
 - przywrócono działanie po niedawnej zmianie układu strony nadawania przesyłek
 [2024-08-31] v1.0.3:
 - przystosowano do nowej strony Sales Center
+[2024-10-10] v1.0.4:
+- przystosowano do zmiany nazwy przycisku przy pobieraniu etykiety po zamówieniu przesyłki
+- poprawiono ładowanie skryptu na otwartych stronach Sales Center po odświeżeniu rozszerzenia na karcie rozszerzeń
