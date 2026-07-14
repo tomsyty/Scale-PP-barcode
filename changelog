@@ -8,3 +8,6 @@
 [2024-10-10] v1.0.4:
 - przystosowano do zmiany nazwy przycisku przy pobieraniu etykiety po zamówieniu przesyłki
 - poprawiono ładowanie skryptu na otwartych stronach Sales Center po odświeżeniu rozszerzenia na karcie rozszerzeń
+[2026-07-14] v1.0.5:
+- dostosowano do zmian w kodzie strony Sales Center które uniemożliwiały pobranie przetworzonej etykiety (działało tylko w niektórych miejscach)
+- działa na serwisie produkcyjnym (salescenter.allegro.com), uprzednio omyłkowo działało tylko na serwisie testowym (salescenter.allegro.com.allegrosandbox.pl)
