@@ -11,3 +11,5 @@
 [2026-07-14] v1.0.5:
 - dostosowano do zmian w kodzie strony Sales Center które uniemożliwiały pobranie przetworzonej etykiety (działało tylko w niektórych miejscach)
 - działa na serwisie produkcyjnym (salescenter.allegro.com), uprzednio omyłkowo działało tylko na serwisie testowym (salescenter.allegro.com.allegrosandbox.pl)
+[2026-07-20] v1.0.6:
+- poprawiono wykrywanie formy dostawy "Allegro Mini Przesyłka"
